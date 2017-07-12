@@ -1,7 +1,7 @@
 # lkenum
 Linkedin user enumeration
 
-Sneaky web scrapper for linkedin user enumeration
+Sneaky web scrapper to list linkedin users for a particular company
 
-Usage:<br>
+**Usage:**<br>
 lkenum.py
